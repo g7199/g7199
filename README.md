@@ -6,6 +6,8 @@ Hi there🖐, I'm Geonwoo Bang 😎😎
 
 Hi, I'm Geonwoo, a student from Korea, studying at SungKyunKwan University.
 
+<br>
+
 <div align="center">
 <h3> ⭐️ My Activities </h3>
 </div>
