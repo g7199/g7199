@@ -42,7 +42,7 @@ Hi, I'm Geonwoo, a student from Korea, studying at SungKyunKwan University.
 <h3> 👑 Awards </h3>
 </div>
 
-<li>[ 📐 <a href = "kypt.or.kr">2019 Korea Young Physicist's Tournament</a>] - On Tournament, Encouragement Prize </li>
+<li>[📐 <a href = "kypt.or.kr">2019 Korea Young Physicist's Tournament</a>] - On Tournament, Encouragement Prize </li>
 <li>[🤖<a href = "https://github.com/g7199/2021-ai-online-competition-1"> 2021 AI Online Competition</a>] - 3rd Prize (Task 03) </li>
 <li>[🤖<a href = "https://github.com/g7199/FocusMaker"> 2021 SKKU AI SW- Education Hackathon</a>] - Silver Prize </li>
 
