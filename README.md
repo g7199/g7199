@@ -44,6 +44,8 @@ Hi, I'm Geonwoo, a student from Korea, studying at SungKyunKwan University.
 <li>[🤖<a href = "https://github.com/g7199/2021-ai-online-competition-1"> 2021 AI Online Competition</a>] - 3rd Prize (Task 03) </li>
 <li>[🤖<a href = "https://github.com/g7199/FocusMaker"> 2021 SKKU AI SW- Education Hackathon</a>] - Silver Prize </li>
 
+<br>
+<br>
 
 [![G7199's GitHub stats](https://github-readme-stats.vercel.app/api?username=g7199&theme=vue&show_icons=true)](https://github.com/g7199/github-readme-stats)
 
