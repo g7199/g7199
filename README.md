@@ -27,7 +27,7 @@ Hi, I'm Geonwoo, a student from Korea, studying at SungKyunKwan University.
 		<td>2020.07 - </td>
 		<td>SKKU COMEDU Programming Academy "CMD"</td>
 		<td>Machine Learning, Deep Learning, CV, NLP</td>
-		<td>5th AI Part Leader, 6th Club President</td>
+		<td>5th AI Part Leader, 6th Academy President</td>
 	</tr>
 	<tr>
 		<td>2021.09 - </td>
