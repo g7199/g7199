@@ -42,9 +42,18 @@ Hi, I'm Geonwoo, a student from Korea, studying at SungKyunKwan University.
 <h3> 👑 Awards </h3>
 </div>
 
+<li>[🤖<a href = "https://github.com/g7199/2021-ai-online-competition-1"> 2021 AI Online Competition</a>] - 3rd Prize🥉 (Task 03) </li>
+<li>[🤖<a href = "https://github.com/g7199/FocusMaker"> 2021 SKKU AI SW-Education Hackathon</a>] - Silver Prize🥈 </li>
+<li>[📐 <a href = "kypt.or.kr">2019 Korea Young Physicist's Tournament</a>] - On Tournament, Encouragement Prize🎁 </li>
+
+<br>
+<br>
+
+
 <div align="center">
 <h3> 📝 Interested in.. </h3>
 </div>
+
 
 Artificial Intelligence
 <ul>Computer Vision</ul>
@@ -52,12 +61,6 @@ Artificial Intelligence
 <ul>Few-Shot Learning</ul>
 
 
-<li>[🤖<a href = "https://github.com/g7199/2021-ai-online-competition-1"> 2021 AI Online Competition</a>] - 3rd Prize🥉 (Task 03) </li>
-<li>[🤖<a href = "https://github.com/g7199/FocusMaker"> 2021 SKKU AI SW-Education Hackathon</a>] - Silver Prize🥈 </li>
-<li>[📐 <a href = "kypt.or.kr">2019 Korea Young Physicist's Tournament</a>] - On Tournament, Encouragement Prize🎁 </li>
-
-<br>
-<br>
 
 [![G7199's GitHub stats](https://github-readme-stats.vercel.app/api?username=g7199&theme=vue&show_icons=true)](https://github.com/g7199/github-readme-stats)
 
