@@ -18,10 +18,10 @@ Hi, I'm Geonwoo, a student from Korea, studying at SungKyunKwan University.
 		<th>Acticity</th><th>Duration</th><th>Learned</th><th>Note</th>
 	</tr>
 	<tr>
-		<td>2017.04 - 2020.02</td>
-		<td>Haeryong HighSchool Programming Club "IT's real"</td>
-		<td>Physical Computing, Web, Linux Programming</td>
-		<td>6th Club President</td>
+		<td>2021.09 - </td>
+		<td><a href = "https://sgmai.oopy.io/"> Smilgate Membership "SGM AI"</a></td>
+		<td>Style Transfer, Virtual Try-on, Software Engineering</td>
+		<td>Starting Member (1st) </td>
 	</tr>
 	<tr>
 		<td>2020.07 - </td>
@@ -30,10 +30,10 @@ Hi, I'm Geonwoo, a student from Korea, studying at SungKyunKwan University.
 		<td>5th AI Part Leader, 6th Academy President</td>
 	</tr>
 	<tr>
-		<td>2021.09 - </td>
-		<td><a href = "https://sgmai.oopy.io/"> Smilgate Membership "SGM AI"</a></td>
-		<td>Style Transfer, Virtual Try-on, Software Engineering</td>
-		<td>Starting Member (1st) </td>
+		<td>2017.04 - 2020.02</td>
+		<td>Haeryong HighSchool Programming Club "IT's real"</td>
+		<td>Physical Computing, Web, Linux Programming</td>
+		<td>6th Club President</td>
 	</tr>
 	</table>
 </div>
