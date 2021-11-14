@@ -56,9 +56,9 @@ Hi, I'm Geonwoo, a student from Korea, studying at SungKyunKwan University.
 
 
 Artificial Intelligence
-<ul>Computer Vision</ul>
-<ul>Adversarial Attacks</ul>
-<ul>Few-Shot Learning</ul>
+<li>Computer Vision</li>
+<li>Adversarial Attacks</li>
+<li>Few-Shot Learning</li>
 
 <br>
 <br>
