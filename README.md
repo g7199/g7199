@@ -54,8 +54,6 @@ Hi, I'm Geonwoo, a student from Korea, studying at SungKyunKwan University.
 <h3> 📝 Interested in.. </h3>
 </div>
 
-
-Artificial Intelligence
 <li>Computer Vision</li>
 <li>Adversarial Attacks</li>
 <li>Few-Shot Learning</li>
