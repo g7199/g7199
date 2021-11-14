@@ -47,11 +47,10 @@ Hi, I'm Geonwoo, a student from Korea, studying at SungKyunKwan University.
 </div>
 
 Artificial Intelligence
-<ul>
-	Computer Vision
-	Adversarial Attacks
-	Few-Shot Learning
-</ul>
+<ul>Computer Vision</ul>
+<ul>Adversarial Attacks</ul>
+<ul>Few-Shot Learning</ul>
+
 
 <li>[🤖<a href = "https://github.com/g7199/2021-ai-online-competition-1"> 2021 AI Online Competition</a>] - 3rd Prize🥉 (Task 03) </li>
 <li>[🤖<a href = "https://github.com/g7199/FocusMaker"> 2021 SKKU AI SW-Education Hackathon</a>] - Silver Prize🥈 </li>
