@@ -62,5 +62,6 @@ Hi, I'm Geonwoo, a student from Korea, studying at SungKyunKwan University.
 <br>
 
 [![G7199's GitHub stats](https://github-readme-stats.vercel.app/api?username=g7199&theme=vue&show_icons=true)](https://github.com/g7199/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=g7199)](https://solved.ac/g7199/)
 
 
