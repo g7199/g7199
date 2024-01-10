@@ -4,7 +4,7 @@ Hi there🖐, I'm Geonwoo Bang 😎😎
 <a href="mailto:g7199@naver.com" target="_blank"><img src="https://img.shields.io/badge/Nmail-2efe2e?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="mailto:qkdrjsdn719@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d44638?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-Hi, I'm Geonwoo, a student from Korea, studying at SungKyunKwan University.
+Hi, I'm Geonwoo, a student from Korea, studying at SungKyunKwan University Computer Education, CSE, Statistics
 
 <br>
 
