@@ -18,6 +18,12 @@ Hi, I'm Geonwoo, a student from Korea, studying at SungKyunKwan University.
 		<th>Acticity</th><th>Duration</th><th>Learned</th><th>Note</th>
 	</tr>
 	<tr>
+		<td>2023.09 - </td>
+		<td>SKKU Statistics "PSAT"</td>
+		<td>ML&DL, CV, Data Mining</td>
+		<td>32th Club Member, CV Part Leader</td>
+	</tr>
+	<tr>
 		<td>2021.09 - 2021.11</td>
 		<td><a href = "https://sgmai.oopy.io/"> Smilgate Membership "SGM AI"</a></td>
 		<td>Style Transfer, Virtual Try-on, Software Engineering</td>
