@@ -19,7 +19,7 @@ Hi, I'm Geonwoo, a student from Korea, studying at SungKyunKwan University.
 	</tr>
 	<tr>
 		<td>2023.09 - </td>
-		<td>SKKU Statistics "P-SAT"</td>
+		<td>SKKU Statistics Academy "P-SAT"</td>
 		<td>ML&DL, CV, Data Mining</td>
 		<td>32th Club Member, CV Part Leader</td>
 	</tr>
