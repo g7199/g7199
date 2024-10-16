@@ -21,7 +21,7 @@ Hi, I'm Geonwoo, a student from Korea, studying at SungKyunKwan University Compu
 		<td>2023.09 - </td>
 		<td>SKKU Statistics Academy "P-SAT"</td>
 		<td>ML&DL, CV, Data Mining</td>
-		<td>32th Club Member, CV Part Leader</td>
+		<td>32th Club Member, 33th CV Part Leader, 34th Vice President</td>
 	</tr>
 	<tr>
 		<td>2021.09 - 2021.11</td>
