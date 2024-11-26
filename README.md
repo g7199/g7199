@@ -47,7 +47,7 @@ Hi, I'm Geonwoo, a student from Korea, studying at SungKyunKwan University Compu
 <div align="center">
 <h3> 👑 Awards </h3>
 </div>
-
+<li>[🤖<a href = "https://contest.k-paas.org"> 2024 K-Paas Service Development Contest</a>] - Special Award🎁 </li>
 <li>[🤖<a href = "https://github.com/nimod7890/forHack"> 2024 SKKU AI SW-Education Hackathon</a>] - Grand Prize🏆  </li>
 <li> [💼<a href = "https://data.mafra.go.kr/contest/competitionNew.do"> The 9th Ministry of Agriculture, Food and Rural Affairs public data utilization startup competition</a>] - Excellence Prize🥉 </li>
 <li> [📊<a href = "https://dszcontest2023.kr/default.asp"> 2023 Data Safety Zone Competition</a>] - 2nd Prize🥈 </li>
