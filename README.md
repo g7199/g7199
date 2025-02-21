@@ -63,9 +63,9 @@ Hi, I'm Geonwoo, a student from Korea, studying at SungKyunKwan University Compu
 <h3> 📝 Interested in.. </h3>
 </div>
 
+<li>Computer Graphics</li>
 <li>Graph Neural Network</li>
 <li>Recommendation System</li>
-<li>Natural Language Processing</li>
 
 <br>
 <br>
